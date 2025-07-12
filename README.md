@@ -7,3 +7,9 @@ This project **Line** is licensed under the **Personal & Public Attribution Lice
 
 See the [LICENSE](./LICENSE) file for details.  
 To request a commercial license, contact: sabazmenderes@proton.me
+
+## Credits
+
+This project **Line** uses [raylib](https://www.raylib.com/) —  
+a simple and easy-to-use library to enjoy videogames programming.  
+Raylib is licensed under the permissive zlib/libpng license.
